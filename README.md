@@ -10,6 +10,7 @@ Pythonで開発
 
 ピックアップが出力する電圧をADコンバータで検出し、検出した電圧をPWMでスピーカへ出力すれば音として
 再生できる
+![DSC_1520](https://github.com/MuratecMinato/PWM-GuitarEffector/assets/71358603/10dc84d9-2370-4f9b-ab0d-b35d3b23495d)
 
 ブロック図
 
