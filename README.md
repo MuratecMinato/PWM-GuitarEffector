@@ -13,5 +13,15 @@ Pythonで開発
 ![DSC_1520](https://github.com/MuratecMinato/PWM-GuitarEffector/assets/71358603/10dc84d9-2370-4f9b-ab0d-b35d3b23495d)
 
 ブロック図
+|  音源 |--- |  ADC   | ---   |フィルタ|---|PWM|---|レベルシフト|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+
+
+
+
+| TH 左寄せ | TH 中央寄せ | TH 右寄せ |
+| :--- | :---: | ---: |
+| TD | TD | TD |
+| TD | TD | TD |
 ！[画像] (https://github.com/MuratecMinato/PWM-GuitarEffector/assets/71358603/465e4d10-94c8-4d7f-a8fa-cc5c2e4bcc13)
