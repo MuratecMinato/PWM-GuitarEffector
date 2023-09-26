@@ -18,18 +18,6 @@ winsound.PlaySound("test.wav", winsound.SND_FILENAME)
 #winsound.Beep以外の音を鳴らす
 
 
-#Aマイナースケールを鳴らす
-winsound.Beep(440, 1000) # ラ
-winsound.Beep(494, 1000) # シ
-winsound.Beep(523, 1000) # ド
-winsound.Beep(587, 1000) # ミ
-winsound.Beep(659, 1000) # ソ
-winsound.Beep(698, 1000) # ラ
-winsound.Beep(784, 1000) # ド
-winsound.Beep(880, 1000) # ミ
-winsound.Beep(988, 1000) # シ
-winsound.Beep(1047, 1000) # ド
-
 #ディミニッシュスケールを鳴らす
 winsound.Beep(440, 1000) # ラ
 winsound.Beep(494, 1000) # シ
@@ -42,3 +30,17 @@ winsound.Beep(880, 1000) # ミ
 winsound.Beep(988, 1000) # シ
 winsound.Beep(1047, 1000) # ド
 
+#ペンタトニックスケールを鳴らす
+winsound.Beep(440, 1000) # ラ
+winsound.Beep(494, 1000) # シ
+winsound.Beep(523, 1000) # ド
+winsound.Beep(659, 1000) # ソ
+winsound.Beep(784, 1000) # ド
+winsound.Beep(880, 1000) # ミ
+winsound.Beep(988, 1000) # シ
+winsound.Beep(1047, 1000) # ド
+winsound.Beep(1319, 1000) # ド
+winsound.Beep(1568, 1000) # ミ
+winsound.Beep(1760, 1000) # ラ
+winsound.Beep(1976, 1000) # シ
+winsound.Beep(2093, 1000) # ド
